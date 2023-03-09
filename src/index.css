@@ -7,6 +7,8 @@
     font-size: 1.5em;
     text-align: center;
     text-shadow: 2px 4px 4px rgba(46, 53, 65, 0.6);
+    height: 100%;
+    overflow-y: hidden;
 
     background-image: radial-gradient(circle, #d6dde6, #a1b1bc, #6c8892, #3a6066, #033b3b);
 
